@@ -14,6 +14,7 @@ The RentACar website contains information of the different types of cars availab
 
 ```
 git clone https://github.com/aditya-kalra28/RentACar.git
+cd RentACar
 npm install
 npm start
 ```
